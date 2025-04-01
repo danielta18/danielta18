@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danny</h1>
 <h3 align="center">A passionate frontend developer from Florida</h3>
 
-- 🔭 I’m currently working on **landing a job in software engineering**
+- 🔭 I’m currently working on **a new crypto wallet scanning tool that allows users to input their wallet address and the blockchain its on, and it will detect which tokens are spam/scam tokens and provide the user with a list**
 
 - 👯 I’m looking to collaborate on **opensource projects**
 
